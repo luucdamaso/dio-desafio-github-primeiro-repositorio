@@ -1,2 +1,8 @@
 Download do Git para Windows:
 https://git-scm.com/download/win
+
+Link para se inscrever no GitHub: 
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
+Passo a passo do Git:
+https://comandosgit.github.io/
